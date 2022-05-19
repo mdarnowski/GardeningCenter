@@ -9,5 +9,10 @@ Spring and gui project.
   ![alt text](pics/design_diag.jpeg)
 
 * Graphical user interface
-
-  Gui designed for the cashier terminal used by Gardening Center employee. Employee can search customers in the database using customer’s id or surname. Employee can view history of customer’s transactions, view old shopping bags and products from old transactions and add them to the current sale. Employee can search products available in the database and create a new sale. Employee selects a customer, creates a new transaction and assigns products to that transaction. Finalized transaction is stored in the database. Employee can study history of transactions of the selected customer, search for specific transactions, display customer’s shopping bags.
+  
+  <img src="pics/screen_customer_list.PNG" width="300"> <img src="pics/sceen_sale_page.PNG" width="300"> <img src="pics/screen_transaction_his.PNG" width="300">
+  
+  Gui for the cashier terminal used by an employee of the Garden Center. The employee can search for customers in the database by the customer's id or last name. An employee can view a customer's transaction history, view old shopping bags and products from old transactions, and add them to current sales. The employee can search for products available in the database and create a new sale. The employee selects the customer, creates a new transaction, and assigns products to that transaction. The finalized transaction is stored in the database. The employee can view the transaction history of the selected customer, search for specific transactions, display the customer's shopping bags.
+  
+  
+  <img src="pics/sequance_diag.png" width="600">  
